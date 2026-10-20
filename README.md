@@ -4,15 +4,15 @@ I write code. 🦀🐜🐛
 
 ## 🕸️ what I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-darkcyan?style=for-the-badge&logo=css&logoColor=white)
+![Django](https://img.shields.io/badge/django-darkolivegreen?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-cornflowerblue?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-coral?style=for-the-badge&logo=linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/arch%20linux-cadetblue?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ## 🍯 currently learning / want to learn
 
