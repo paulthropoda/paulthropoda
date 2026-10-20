@@ -2,7 +2,7 @@
 
 I write code. 🦀🐜🐛
 
-## 🛠️ what I work with
+## 🕸️ what I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -14,7 +14,7 @@ I write code. 🦀🐜🐛
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-## 🌱 currently learning / want to learn
+## 🍯 currently learning / want to learn
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,10 +23,10 @@ I write code. 🦀🐜🐛
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-## 🎲 random facts
+## 🍀 random facts
 
 - 🕷️ I am particularly fond of arthropods
-- ✏️ I like drawing and I am working on getting better at it
+- 🎨 I like drawing and I am working on getting better at it
 - 🔐 I am picking up bits and pieces of cybersecurity as I go
 - 📖 a good story is one of the things I value most in anything
 
