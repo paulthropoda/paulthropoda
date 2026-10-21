@@ -1,8 +1,8 @@
 # paul 🐝
 
-I write code. 🐜
-not that anyone asked but I use Arch.🪲
-I hope I can eventually make something useful for at least one person in the world. 🪰
+I write code. 🐜<br>
+not that anyone asked but I use Arch. 🪲<br>
+I hope I can eventually make something useful for at least one person in the world. 🪰<br>
 anyway, make something, refine it, publish it, someone will like it, that's what I think. 🪳
 
 ## 🕸️ what I work with
@@ -29,8 +29,8 @@ anyway, make something, refine it, publish it, someone will like it, that's what
 ![Kotlin](https://img.shields.io/badge/kotlin-slateblue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-tomato?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-firebrick?style=for-the-badge&logo=unreal%20engine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-royalblue?style=for-the-badge&logo=godot%20engine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 🍀 random facts
 
