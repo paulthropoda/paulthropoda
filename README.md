@@ -1,7 +1,7 @@
 # paul 🐝
 
 I write code. 🐜<br>
-not that anyone asked but I use ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-darkorchid?logo=endeavouros&logoColor=white). 🪲<br>
+not that anyone asked but I use EndeavourOS. 🪲 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-darkorchid?logo=endeavouros&logoColor=white)<br>
 I hope I can eventually make something useful for at least one person in the world. 🪰<br>
 anyway, make something, refine it, publish it, someone will like it, that's what I believe. 🪳
 
