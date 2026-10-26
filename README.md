@@ -1,8 +1,8 @@
 # paul 🐝
 
-I write code. 🐜<br>
+I write code (sometimes). 🐜<br>
 not that anyone asked but I use Arch(-based distro). 🪲<br>
-I hope I can eventually make something useful for at least one person in the world. 🪰<br>
+I hope I can eventually make something useful for at least one person in the world (hopefully). 🪰<br>
 anyway, make something, refine it, publish it, someone will like it, that's what I believe. 🪳
 
 ## 🥬 what I personally use
